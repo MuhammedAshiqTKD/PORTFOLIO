@@ -68,7 +68,7 @@ function App() {
           <div className="btn-container">
             <button 
               className="btn btn-color-2 "
-              onClick={() => window.open('/.pdf' )}
+              onClick={() => window.open('/MUHAMMED  ASHIQ.pdf' )}
             >
               Download CV
             </button>
